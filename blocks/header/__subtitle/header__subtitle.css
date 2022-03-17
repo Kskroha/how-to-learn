@@ -6,4 +6,6 @@
   left: 64px;
   bottom: 30px;
   position: absolute;
+  margin: 0;
+  z-index: 2;
 }

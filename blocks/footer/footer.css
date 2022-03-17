@@ -3,10 +3,4 @@
   min-height: 350px;
   display: flex;
   margin: 0 auto;
-  position: relative;
-}
-
-.footer a {
-  text-decoration: none;
-  color: white;
 }
