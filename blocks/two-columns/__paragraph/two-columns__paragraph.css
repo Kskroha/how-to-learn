@@ -3,6 +3,8 @@
   font-size: 24px;
   font-weight: normal;
   margin-left: 30px;
+  margin: 0;
+  padding-bottom: 30px;
 }
 
 .two-columns__paragraph:first-of-type {
@@ -10,5 +12,5 @@
 }
 
 .two-columns__paragraph:last-of-type {
-  margin-bottom: 0;
+  padding-bottom: 0;
 }
